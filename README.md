@@ -1,6 +1,6 @@
 # MenuBar RAM
 
-A tiny native macOS menu bar app that shows memory, CPU, GPU, network and battery health at a glance, and lets you quit whatever is eating your RAM.
+A tiny native macOS menu bar app that shows memory, CPU, GPU, network and battery health at a glance. Swift + AppKit, no dependencies, about 300 KB.
 
 <p align="center">
   <img src="docs/menu.jpg" alt="MenuBar RAM's menu: live CPU, GPU, RAM, download and upload, uptime, thermals and battery health" width="49%">
