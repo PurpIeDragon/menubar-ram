@@ -12,7 +12,7 @@ A tiny native macOS menu bar app that shows memory, CPU, GPU, network and batter
 **Homebrew**
 
 ```bash
-brew install --cask purpiedragon/tap/menubar-ram
+brew tap purpiedragon/tap && brew trust purpiedragon/tap && brew install --cask menubar-ram
 ```
 
 **Download**
